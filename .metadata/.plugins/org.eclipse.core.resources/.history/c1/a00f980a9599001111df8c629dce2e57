@@ -1,0 +1,10 @@
+package risingfloodwaters;
+
+import java.util.Scanner;
+
+
+public class Risingfloodwaters {
+	public static void main(String[] args) {
+
+	}
+}
